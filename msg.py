@@ -4,7 +4,7 @@ import time
 
 time.sleep(5)
 
-mensagens = ["Ta, pyautogui é muito legal...", "Mais um teste de array!","Teste de array!"]
+mensagens = ["teste de array!","Teste de array!"]
 
 for i in range(15):
     time.sleep(1)
